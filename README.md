@@ -2,7 +2,8 @@
 
 
  
-<img height=200px src="![logo-color](https://github.com/raopratham19/vault-safe-protocol/assets/134732286/55d8c2ff-3579-4caf-b33a-9990888b8619)" >         
+<img height=200px src="![logo-color](https://github.com/raopratham19![logo-color](https://github.com/raopratham19/vault-safe-protocol/assets/134732286/756752a3-edca-44f0-aff6-60773e0a2da1)
+/vault-safe-protocol/assets/134732286/55d8c2ff-3579-4caf-b33a-9990888b8619)" >         
         </p>
 <h1 align="center"> Vault-Safe-Protocol </h1>
 <h3 align="center"> Blockchain Based Certificate Validation <h3>
