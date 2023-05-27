@@ -1,4 +1,4 @@
-<p align="center">!
+<p align="center">
 
  
 <img height=200px src="[logo-color](https://github.com/raopratham19/vault-safe-protocol/assets/134732286/38784a1e-aab3-4f03-bc88-a1ab956ab52a)" >         
@@ -6,6 +6,7 @@
 <h1 align="center"> Vault-Safe-Protocol </h1>
 <h3 align="center"> Blockchain Based Certificate Validation <h3>
   
+
 
 <div align="center">
   
