@@ -1,6 +1,7 @@
-<p align="center">
+<p align="center">!
+
  
-<img height=200px src="[C:\Users\prath\vault-safe-protocol\src\logo\logo-color](https://1drv.ms/i/s!Ahbkw8Za2hrYwF_1agIPf0wqaSHL?e=JUnJdZ)" >         
+<img height=200px src="[logo-color](https://github.com/raopratham19/vault-safe-protocol/assets/134732286/38784a1e-aab3-4f03-bc88-a1ab956ab52a)" >         
         </p>
 <h1 align="center"> Vault-Safe-Protocol </h1>
 <h3 align="center"> Blockchain Based Certificate Validation <h3>
