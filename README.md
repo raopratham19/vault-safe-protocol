@@ -1,8 +1,8 @@
 <p align="center">
  
-<img height=200px src="./src/logo/logo.jpeg" >         
+<img height=200px src="./src/logo/logo-color.jpeg" >         
         </p>
-<h1 align="center"> E-Certify </h1>
+<h1 align="center"> Vault-Safe-Protocol </h1>
 <h3 align="center"> Blockchain Based Certificate Validation <h3>
   
 
@@ -20,11 +20,10 @@
 
 ##  Vault-Safe-Protocol : About
 - It is a blockchain based project for online certificate validation. 
-- The major problem of counterfeit certificates can be tackled with the help of E-Certify, as it provides a solution to preserve the       genuineness of a certificate. 
+- The major problem of counterfeit certificates can be tackled with the help of Vault-Safe-Protocol, as it provides a solution to preserve the       genuineness of a certificate. 
 - It works on the idea that: “Only the issuer can upload the certificate and the rest people can only view  it.” The entire process       works on the blockchain in partnership with the IPFS(to provide data security). 
 - Does Everything for Certificates : Storing ,Validating and Sharing .
 - Thus this is a modern and hassle-free solution to manage certificates and verify them!
-- This Project was made at SIH 2019
 ## Insight
 - •	Our project is a D-App on the Ethereum blockchain.(https://www.ethereum.org/).
 - •	The back-end of the application is based on a smart contract, while the front-end is built using React.js [React.Js] 
