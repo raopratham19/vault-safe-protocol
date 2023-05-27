@@ -1,6 +1,6 @@
 <p align="center">
  
-<img height=200px src="./src/logo/logo-color.jpeg" >         
+<img height=200px src="C:\Users\prath\vault-safe-protocol\src\logo" >         
         </p>
 <h1 align="center"> Vault-Safe-Protocol </h1>
 <h3 align="center"> Blockchain Based Certificate Validation <h3>
